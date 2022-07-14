@@ -196,16 +196,6 @@
 91.249.134.148:80
 170.106.155.14:1080
 213.143.113.82:80
-
-aaPanel Internet Address: 103.82.25.230:7800/18ac79f8
-aaPanel Internal Address: 103.82.25.230:7800/18ac79f8
-username: 5wz6ltdf
-password: fc6c548f
-
-aaPanel Internet Address: 20.227.153.161:7800/4a5ec3a0
-aaPanel Internal Address: 10.5.0.4:7800/4a5ec3a0
-username: mdadhluh
-password: 742c9744
 184.178.172.13:15311
 184.178.172.11:4145
 184.178.172.14:4145
